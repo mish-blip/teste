@@ -1,6 +1,6 @@
 # PyGame Workshop
 
-Click this button to start: [![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+Click this button to start: [![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mish-blip/teste)
 
 ## How to run:
 1. Click the GitPod button above
