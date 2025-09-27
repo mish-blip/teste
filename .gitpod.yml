@@ -1,0 +1,15 @@
+image: gitpod-io/workspace-python-3.8
+
+tasks:
+  - name: Setup Python & PyGame
+    init: |
+      pip install pygame
+      pip install numpy
+    command: |
+      echo "Environment ready!"
+      echo "Run: python game.py"
+
+vscode:
+  extensions:
+    - ms-python.python
+    - formulahendry.auto-rename-tag
